@@ -1,0 +1,132 @@
+﻿  Controller.cpp
+C:\Users\maksy\Desktop\ProjektProgramowanie\Controller.cpp(263,38): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\maksy\Desktop\ProjektProgramowanie\Controller.cpp(269,42): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\maksy\Desktop\ProjektProgramowanie\Controller.cpp(274,46): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\maksy\Desktop\ProjektProgramowanie\Controller.cpp(279,49): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\maksy\Desktop\ProjektProgramowanie\Controller.cpp(284,44): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\maksy\Desktop\ProjektProgramowanie\Controller.cpp(289,52): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\maksy\Desktop\ProjektProgramowanie\Controller.cpp(289,36): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\maksy\Desktop\ProjektProgramowanie\Controller.cpp(296,48): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\maksy\Desktop\ProjektProgramowanie\Controller.cpp(300,66): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\maksy\Desktop\ProjektProgramowanie\Controller.cpp(310,51): warning C4305: "argument": obcięcie z "double" do "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\maksy\Desktop\ProjektProgramowanie\Controller.cpp(315,38): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\maksy\Desktop\ProjektProgramowanie\Controller.cpp(322,36): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\maksy\Desktop\ProjektProgramowanie\Controller.cpp(329,36): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\maksy\Desktop\ProjektProgramowanie\Controller.cpp(338,38): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\maksy\Desktop\ProjektProgramowanie\Controller.cpp(345,36): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\maksy\Desktop\ProjektProgramowanie\Controller.cpp(352,36): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\maksy\Desktop\ProjektProgramowanie\Controller.cpp(359,36): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\maksy\Desktop\ProjektProgramowanie\Controller.cpp(367,45): warning C4305: "argument": obcięcie z "double" do "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\maksy\Desktop\ProjektProgramowanie\Controller.cpp(418,45): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\maksy\Desktop\ProjektProgramowanie\Controller.cpp(422,70): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\maksy\Desktop\ProjektProgramowanie\Controller.cpp(422,59): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\maksy\Desktop\ProjektProgramowanie\Controller.cpp(436,99): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\maksy\Desktop\ProjektProgramowanie\Controller.cpp(436,85): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\maksy\Desktop\ProjektProgramowanie\Controller.cpp(442,99): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\maksy\Desktop\ProjektProgramowanie\Controller.cpp(442,85): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  Trwa generowanie kodu
+  1 of 521 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  ProjektProgramowanie.vcxproj -> C:\Users\maksy\Desktop\ProjektProgramowanie\x64\Release\ProjektProgramowanie.exe
